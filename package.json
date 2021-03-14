@@ -1,6 +1,6 @@
 {
 	"name": "@sandalsoft/run-applescript",
-	"version": "5.0.0",
+	"version": "1.0.1",
 	"description": "Run AppleScript and get the result - FORKED FROM Sindre's repo to fix upstream issue",
 	"license": "MIT",
 	"repository": "@sandalsoft/run-applescript",
