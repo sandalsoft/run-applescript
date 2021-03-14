@@ -1,10 +1,9 @@
 {
-	"name": "run-applescript",
+	"name": "@sandalsoft/run-applescript",
 	"version": "5.0.0",
-	"description": "Run AppleScript and get the result",
+	"description": "Run AppleScript and get the result - FORKED FROM Sindre's repo to fix upstream issue",
 	"license": "MIT",
-	"repository": "sindresorhus/run-applescript",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "@sandalsoft/run-applescript",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
